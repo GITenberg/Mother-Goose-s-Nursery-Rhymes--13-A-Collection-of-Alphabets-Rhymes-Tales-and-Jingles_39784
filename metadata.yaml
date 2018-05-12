@@ -1,0 +1,58 @@
+_repo: Mother-Goose-s-Nursery-Rhymes--13-A-Collection-of-Alphabets-Rhymes-Tales-and-Jingles_39784
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Gilbert, John
+    alias: Gilbert, Sir John
+    birthdate: 1817
+    deathdate: 1897
+    gutenberg_agent_id: '31359'
+    url: http://www.gutenberg.org/2009/agents/31359
+  - agent_name: Zwecker, Johann Baptist
+    alias: Zwecker
+    birthdate: 1814
+    deathdate: 1876
+    gutenberg_agent_id: '33063'
+    url: http://www.gutenberg.org/2009/agents/33063
+  - agent_name: Weir, Harrison
+    alias: Weir, Harrison William
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '8210'
+    url: http://www.gutenberg.org/2009/agents/8210
+    wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+  - agent_name: Tenniel, John
+    alias: Tenniel, Sir John
+    birthdate: 1820
+    deathdate: 1914
+    gutenberg_agent_id: '74'
+    url: http://www.gutenberg.org/2009/agents/74
+    wikipedia: http://en.wikipedia.org/wiki/John_Tenniel
+  - agent_name: Crane, Walter
+    birthdate: 1845
+    deathdate: 1915
+    gutenberg_agent_id: '7195'
+    url: http://www.gutenberg.org/2009/agents/7195
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
+covers:
+- cover_type: archival
+  image_path: 39784-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2012-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcsh 'Alphabet rhymes'
+- !lcsh 'Nursery rhymes'
+- !lcc 'PZ'
+- !lcsh 'Humorous poetry'
+- !lcsh 'Children''s songs'
+title: "Mother Goose's Nursery Rhymes\r\nA Collection of Alphabets, Rhymes, Tales,\
+  \ and Jingles"
+url: http://www.gutenberg.org/ebooks/39784
