@@ -38,6 +38,8 @@ covers:
 - cover_type: archival
   image_path: 39784-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39784#Mother-Goose-s-Nursery-Rhymes--13-A-Collection-of-Alphabets-Rhymes-Tales-and-Jingles
 gutenberg_issued: '2012-05-24'
 gutenberg_type: Text
 identifiers:
